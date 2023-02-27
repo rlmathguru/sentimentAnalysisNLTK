@@ -1,0 +1,2 @@
+# sentimentAnalysisNLTK
+Sentiment analysis NLTK
